@@ -2,7 +2,7 @@
 
 MyTestCase
     
-    Log    Hello Kolea....
+    Log    Hello Kolea......
     
 MySecondTest
     
